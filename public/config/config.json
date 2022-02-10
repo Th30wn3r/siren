@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x425813298a52B87FFd876600404D18bEA643B26D",
+  "SCAN_LINK": "https://bscscan.com/token/0x425813298a52B87FFd876600404D18bEA643B26D",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Siren",
+  "SYMBOL": "SRN",
+  "MAX_SUPPLY": 120,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 0.3,
+  "GAS_LIMIT": 290000,
+  "MARKETPLACE": "tofunft",
+  "MARKETPLACE_LINK": "https://tofunft.com",
+  "SHOW_BACKGROUND": true
+}
